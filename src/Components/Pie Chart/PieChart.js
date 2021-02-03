@@ -6,7 +6,7 @@ const state = {
         'Cleaning', 'Security'],
     datasets: [
         {
-            label: 'Rainfall',
+            label: 'department',
             backgroundColor: [
                 '#B21F00',
                 '#C9DE00',
